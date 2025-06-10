@@ -21,5 +21,6 @@ namespace CameraX_MLKit_FaceDetection_MAUI8
 
             return builder.Build();
         }
+
     }
 }
